@@ -1,1 +1,4 @@
 # Bangla
+
+
+PKG install git
